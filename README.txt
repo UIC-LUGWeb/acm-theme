@@ -1,5 +1,5 @@
 
-ABOUT STARK
+ABOUT ACM
 -----------
 
 The Stark theme is provided for demonstration purposes; it uses Drupal's default
